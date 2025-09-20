@@ -6,15 +6,6 @@ This project is focused on analyzing **BlinkIT grocery sales data** and developi
 <img width="1163" height="626" alt="image" src="https://github.com/user-attachments/assets/7d472504-37c0-47e3-b386-c249470609f1" />
 
 
-## 📂 Project Structure
-BlinkIT-Sales-Dashboard/
-│── data/
-│   └── BlinkIT Grocery Data.xlsx       # Dataset
-│── dashboard/
-│   └── BlinkIT_Sales_Dashboard.xlsx    # Interactive Excel Dashboard
-│── README.md                           # Project Documentation
-
-
 ## 📊 Data Analysis & Insights
 The analysis highlights important trends across different outlet types, sizes, and locations, while also considering product-specific attributes such as fat content and establishment year. Through this exploration, the project uncovers how consumer preferences vary, how outlets perform under different conditions, and what factors drive higher sales. The use of lookup functions, PivotTables, and slicers makes it possible to segment the data and explore patterns in detail.
 
@@ -48,4 +39,14 @@ The dataset was cleaned and structured using Excel, followed by the application 
 Planned improvements include integrating Power Query to automate data refresh, expanding the dashboard to Power BI for web-based, shareable analytics, and applying predictive modeling to forecast sales performance. These enhancements would strengthen the project by combining descriptive and predictive analytics into a single framework.  
 
 ## 👤 Author
-Developed by **Satya Sekhar Rajana** as part of a portfolio of data analytics projects. This project demonstrates skills in data cleaning, visualization, and dashboard creation using Excel, along with the ability to generate business insights from raw datasets.  
+Developed by **Satya Sekhar Rajana** as part of a portfolio of data analytics projects. This project demonstrates skills in data cleaning, visualization, and dashboard creation using Excel, along with the ability to generate business insights from raw datasets. 
+
+
+## 📂 Project Structure
+```bash
+BlinkIT-Sales-Dashboard/
+├── data/
+│   └── BlinkIT Grocery Data.xlsx       # Dataset
+├── dashboard/
+│   └── BlinkIT_Sales_Dashboard.xlsx    # Interactive Excel Dashboard
+└── README.md                           # Project Documentation
